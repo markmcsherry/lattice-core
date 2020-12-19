@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "lattic core server side",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node server.js"
+  },
+  "author": "markmcsherry",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
