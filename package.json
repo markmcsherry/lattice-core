@@ -1,0 +1,22 @@
+{
+  "name": "lattice-core",
+  "version": "0.0.1",
+  "description": "Lattic Core",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmcsherry/lattice-core.git"
+  },
+  "author": "markmcsherry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmcsherry/lattice-core/issues"
+  },
+  "homepage": "https://github.com/markmcsherry/lattice-core#readme"
+}
