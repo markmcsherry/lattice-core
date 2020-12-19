@@ -7,8 +7,10 @@
     "doc": "docs"
   },
   "scripts": {
+
     "test": "echo \"No test specified, ToDo:setup tests\" && exit 0",
-    "start": "node src/server/server.js"
+    "start": "node src/server/server.js
+
   },
   "repository": {
     "type": "git",
