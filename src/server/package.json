@@ -4,12 +4,16 @@
   "description": "lattic core server side",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
+    "test": "jest",
     "start": "node server.js"
   },
   "author": "markmcsherry",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+
   }
 }
