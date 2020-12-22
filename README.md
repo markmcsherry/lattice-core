@@ -6,4 +6,3 @@ Lattice Core
 
 
 <!-- todo: add in tech stack -->
-  
