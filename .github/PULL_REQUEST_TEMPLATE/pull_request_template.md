@@ -2,8 +2,19 @@
 
 ---
 
-### Details
-
-Provide details of PR, 
+### Description
 #link to issue
-@tag users to review  
+
+Provide details of PR
+
+
+@tag users to review
+
+### Details & Checks
+
+- [ ] Unit Tests
+- [ ] Integration Tests
+- [ ] Update Docs
+- [ ] Coverage OK
+
+
