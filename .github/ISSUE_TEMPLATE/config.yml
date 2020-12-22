@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+ - name: Documentation Issue
+    about: Issue to handle documentation
+    url: https://github.com/markmcsherry/lattice-core/issues/new?labels=type:documentation&title=DOC-
+
+
+
+
+
+
