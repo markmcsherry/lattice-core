@@ -22,12 +22,5 @@ Assumptions / Links / Reference
 ### Tasks
 - [ ] Task 1
 
---- 
 
-### "Ready Criteria" Check  
-- [ ] Ready
-
-
-### "Done Criteria" Check
-- [ ] Done
 
