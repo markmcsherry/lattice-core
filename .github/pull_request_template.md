@@ -1,16 +1,11 @@
----
-
----
-
-### Description
+## Description
 #link to issue
 
 Provide details of PR
 
-
 @tag users to review
 
-### Details & Checks
+## Details & Checks
 
 - [ ] Unit Tests
 - [ ] Integration Tests
