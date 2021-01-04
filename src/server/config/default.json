@@ -1,6 +1,6 @@
 {
     "expressSettings": {
-        "serverPort": "4000",
-        "morganFormat": "combined"
+        "serverPort": "4040",
+        "morganFormat": "dev"
     }
   }
