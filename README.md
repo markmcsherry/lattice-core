@@ -5,4 +5,11 @@
 Lattice Core
 
 
+#Some Articles used to setup
+Headless Testing
+https://medium.com/swlh/a-road-to-the-ultimate-testing-setup-with-jest-and-headless-chrome-browser-83f14e3799e3
+
+Integration Testing and multiple routes
+https://theodinproject.com/courses/nodejs/lessons/testing-routes-and-controllers
+
 <!-- todo: add in tech stack -->
